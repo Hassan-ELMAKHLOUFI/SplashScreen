@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP2-splashScreen</string>
+    <string name="user_name">username </string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="back">Back</string>
+</resources>
